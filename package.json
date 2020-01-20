@@ -1,0 +1,23 @@
+{
+  "name": "learn-hapi",
+  "version": "1.0.0",
+  "description": "Learning hapi js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnson58th2/learn-hapi.git"
+  },
+  "author": "Nguyễn Như Sơn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nnson58th2/learn-hapi/issues"
+  },
+  "homepage": "https://github.com/nnson58th2/learn-hapi#readme",
+  "dependencies": {
+    "hapi": "^18.1.0",
+    "nodemon": "^2.0.2"
+  }
+}
